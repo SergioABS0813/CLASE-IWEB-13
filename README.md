@@ -165,6 +165,9 @@ Ingresamos a nuestra VM
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/fafc9192-23f7-4753-8581-dd5d893fc20b)
 
 
+## 1:56
+
+
 ## Levantamos Servidor de Base de datos
 Levantamos Base de Datos en base a Servicio de levantamiento de Base de datos en GCP:
 
