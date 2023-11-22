@@ -126,8 +126,43 @@ Ahora Tomcat tiene que correr el Servicio
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/361225b5-a5de-4d3c-87e1-92c3d84f1f51)
 
-Y compiamos el código para ejecutar el servicio de TOMCAT
+Y compiamos el código adentro para ejecutar el servicio de TOMCAT (**NOS DAMOS CUENTA QUE SI HAY UNA VERSION DIFERENTE LA CAMBIAMOS EN BASE A NUESTRA VERSION DE PROYECTO**)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/ed16b4bc-7f9c-4efd-a9bc-6457457ce3ed)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/09bd0505-262c-4570-bf70-1deaf6b79529)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/6d166c1c-82aa-4342-9f8c-a705cf63c4e9)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/f720aea4-9a0b-401a-9012-98d34d268757)
+
+Ahora abrimos el puerto desde GCP:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/8ecda752-b556-445b-a0fa-181b93b9c091)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/04203db1-40b3-44fa-b728-8929694b33ac)
+
+Creamos regla en Firewall:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/0f77e73b-bdfc-4258-adb4-b7043b267af6)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/e9370d61-1e05-4a39-a4c2-d53e28058136)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/fa422b6f-741e-422f-ab21-1cbed2cd194d)
+
+Colocamos a la Instancia la regla creada al Firewall:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/b6b2c003-32df-438b-a26e-fc3d92303e46)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/2fafd0b0-4550-4788-be61-1f2ed7b90e70)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/5c0f0e8b-21b3-4a1e-b8f4-bf717ae933fb)
+
+Ingresamos a nuestra VM
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/f61836b3-3ece-45aa-a379-40203b205781)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/fafc9192-23f7-4753-8581-dd5d893fc20b)
 
 
 ## Levantamos Servidor de Base de datos
