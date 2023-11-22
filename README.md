@@ -62,8 +62,71 @@ Cuando corro con Java un proyecto lo hace en .jar. Sin embargo, el proyecto ".wa
 
 Entonces cuando yo corro mi proyecto, la "flechita verde" empaqueta todo el proyecto en un war (.war) y levanta el Server Tomcat. **El problema es que ahora el Tomcat tiene que estar en Nube, no en la PC únicamente**
 
-Entonces primero **levantamos el TOMCAT**, segundo **generamos el archivo en .war** y tercero **manualmente colocamos el .war en el Tomcat**.
+Entonces primero **generamos el archivo en .war**, segundo **levantamos el Tomcat** y tercero **manualmente colocamos el .war en el Tomcat**.
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/a56f0dcb-3d34-45dc-8bac-36184b8f119e)
+
+Clic en Package y luego le damos a correr el Maeven: (OJO EL MAEVEN NO EL TOMCAT)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/6fb676dc-9648-4e42-80f2-7b5495e07078)
+
+Luego cuando finalice, en Target veremos el .war
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/b3528a78-deff-4ad5-85e9-cf06010f075f)
+
+**Instalamos Java en la máquina virtual pero en la versión de nuestro proyecto**
+
+Nos fijamos la versión de nuestro JAVA en New Project:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/4e02a49c-d63f-428b-8e8a-01101194e712)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/f1ed278d-5505-4061-94aa-4f77d6b83dcb)
+
+**Instalamos Tomcat en la VM**
+
+
+
+
+## Levantamos Servidor de Base de datos
+Levantamos Base de Datos en base a Servicio de levantamiento de Base de datos en GCP:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/e9406924-8737-4589-8de1-bbc4d0e47e79)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/eb7b2aaa-5a67-47a2-86a5-b2a8546ccd11)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/8fc74cd9-d8f1-4d37-b50f-ffcdaf571590)
+
+Ahora le asignamos configuraciones y vemos el costo:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/99485b8f-745b-4ed4-ba0f-45dd1da1fa33)
+
+Le damos a Enterprise:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/0498858d-fd5e-4da5-9497-267a868a8a62)
+
+Le asignamos una zona única:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/37eece97-544e-4e18-a062-6cd0848229b5)
+
+Le damos a 1 núcleo:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/3ce9daa9-e045-4a35-9ee9-3cc47bec36b7)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/b0220b8d-b36f-489a-acaf-a1bcec3b7071)
+
+Para conectarme desde redes autorizadas (Entre ellas el Workbench)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/d8edddef-880a-4cef-879f-fec08171508f)
+
+A manera de Prueba colocamos todo en redes autorizadas:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/72c3e24a-457e-4ed5-9035-b5f924cfe61b)
+
+Luego en Crear Instancia:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/393a71b4-6a08-4949-ba0c-8d195b4a2ac2)
+
+**HEMOS CREADO NUESTRO SERVIDOR DE BASE DE DATOS**
 
 
 
