@@ -146,6 +146,8 @@ Creamos regla en Firewall:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/0f77e73b-bdfc-4258-adb4-b7043b267af6)
 
+Ahora sí colocamos 0.0.0.0/0
+
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/e9370d61-1e05-4a39-a4c2-d53e28058136)
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/fa422b6f-741e-422f-ab21-1cbed2cd194d)
