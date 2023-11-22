@@ -84,6 +84,25 @@ Nos fijamos la versión de nuestro JAVA en New Project:
 
 **Instalamos Tomcat en la VM**
 
+Vamos a la página de TOMCAT y vamos al TOMCAT 10:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/d4ebc7b5-fcb3-4fa9-b5e4-53edec23bd8c)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/9d3c0288-6172-4afa-b8d5-10fe25f2187f)
+
+Usamos el comando: wget <link para bajar de internet>
+
+Ahora lo destareamos: (Usamoe el nombre del archivo en nuestra VM)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/93496be3-b7e5-4d54-846d-0e148fb7f825)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/7665f12a-7f5d-442c-971f-ea66e29827b9)
+
+Creamos un Usuario TOMCAT para que corra:
+
+  sudo useradd -M -d /usr/share/apache-tomcat/ tomcat
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/6aa79ba9-082f-4d40-858a-1b7ee83045a3)
 
 
 
