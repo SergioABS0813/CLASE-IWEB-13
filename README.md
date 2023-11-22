@@ -170,9 +170,6 @@ Ingresamos:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/fb765499-ab14-4507-a42b-2555109d1867)
 
-Le damos a seleccionar archivo .war y buscamos en nuestro proyecto en target
-![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/ae764fd3-f326-4339-87e7-fd99244f0fb2)
-
 
 ## Observamos los usuarios de nuestra instancia
 
@@ -180,7 +177,7 @@ Le damos a seleccionar archivo .war y buscamos en nuestro proyecto en target
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/4e921163-ab78-435d-a80d-394ad5bd0e3d)
 
-
+Ingresamos y buscamos el archivo en nuestro proyecto en .war en TARGET
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/a4db30a3-c3dd-4448-9e3a-e318a277d092)
 
