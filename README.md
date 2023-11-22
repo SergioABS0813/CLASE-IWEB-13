@@ -52,9 +52,19 @@ Le damos a Authorize
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/da01d4e5-f0f4-4521-b4bf-fd01cef229ca)
 
-## Mantener la IP Pública (Proyecto)
+## Mantener la IP Pública (Proyecto Investigación)
 
 ## Conexión a la VM con otro cliente
+
+## Despliegue de proyecto sin Base de Datos
+
+Cuando corro con Java un proyecto lo hace en .jar. Sin embargo, el proyecto ".war" no se corre. Todo mi proyecto en JAVA se comprime en un ".war"
+
+Entonces cuando yo corro mi proyecto, la "flechita verde" empaqueta todo el proyecto en un war (.war) y levanta el Server Tomcat. **El problema es que ahora el Tomcat tiene que estar en Nube, no en la PC únicamente**
+
+Entonces primero **levantamos el TOMCAT**, segundo **generamos el archivo en .war** y tercero **manualmente colocamos el .war en el Tomcat**.
+
+
 
 
 
