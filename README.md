@@ -104,6 +104,30 @@ Creamos un Usuario TOMCAT para que corra:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/6aa79ba9-082f-4d40-858a-1b7ee83045a3)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/6bca04b6-1a8d-45d6-9cb0-c1c374cbd889)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/4e3e83f0-b50e-4c9a-bb63-9380a9559636)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/a7e05c66-d6b3-4c48-8f34-096940802126)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/7e71c661-097f-46f5-98f6-aa0a3369adec)
+
+**Luego le damos ctrl X, Yes y ENTER**
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/63276f3c-c657-492d-b3ce-190b5cb4021f)
+
+Colocamos en comentario:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/624f22a8-dcb1-462d-823a-79861601b465)
+
+**Luego le damos ctrl X, Yes y ENTER**
+
+Ahora Tomcat tiene que correr el Servicio
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-13/assets/134556600/361225b5-a5de-4d3c-87e1-92c3d84f1f51)
+
+Y compiamos el código para ejecutar el servicio de TOMCAT
+
 
 
 ## Levantamos Servidor de Base de datos
